@@ -1,0 +1,94 @@
+<mxfile host="Electron" modified="2024-06-01T03:03:47.030Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="yPITdM31YVx4EQiATUs4" version="22.1.2" type="device">
+  <diagram name="Страница — 1" id="5IolMcFVH7w5QJRg8PU6">
+    <mxGraphModel dx="810" dy="469" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="T1vW93tWXf2nNY0iaVBA-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;fontStyle=2" parent="1" source="U6b_p_HcUZ6ZTeBf6-UP-2" target="U6b_p_HcUZ6ZTeBf6-UP-41" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="424" y="265.0000000000001" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T1vW93tWXf2nNY0iaVBA-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;fontStyle=2" parent="1" source="U6b_p_HcUZ6ZTeBf6-UP-2" target="U6b_p_HcUZ6ZTeBf6-UP-43" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="424" y="265.0000000000001" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T1vW93tWXf2nNY0iaVBA-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontStyle=2" parent="1" source="U6b_p_HcUZ6ZTeBf6-UP-2" target="U6b_p_HcUZ6ZTeBf6-UP-42" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="424" y="265.0000000000001" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T1vW93tWXf2nNY0iaVBA-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="U6b_p_HcUZ6ZTeBf6-UP-2" target="U6b_p_HcUZ6ZTeBf6-UP-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T1vW93tWXf2nNY0iaVBA-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="U6b_p_HcUZ6ZTeBf6-UP-2" target="U6b_p_HcUZ6ZTeBf6-UP-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T1vW93tWXf2nNY0iaVBA-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="U6b_p_HcUZ6ZTeBf6-UP-2" target="U6b_p_HcUZ6ZTeBf6-UP-45" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T1vW93tWXf2nNY0iaVBA-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="U6b_p_HcUZ6ZTeBf6-UP-2" target="U6b_p_HcUZ6ZTeBf6-UP-46" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T1vW93tWXf2nNY0iaVBA-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="U6b_p_HcUZ6ZTeBf6-UP-2" target="U6b_p_HcUZ6ZTeBf6-UP-51" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T1vW93tWXf2nNY0iaVBA-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="U6b_p_HcUZ6ZTeBf6-UP-2" target="U6b_p_HcUZ6ZTeBf6-UP-52" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T1vW93tWXf2nNY0iaVBA-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="U6b_p_HcUZ6ZTeBf6-UP-2" target="U6b_p_HcUZ6ZTeBf6-UP-49" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T1vW93tWXf2nNY0iaVBA-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="U6b_p_HcUZ6ZTeBf6-UP-2" target="U6b_p_HcUZ6ZTeBf6-UP-50" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T1vW93tWXf2nNY0iaVBA-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="U6b_p_HcUZ6ZTeBf6-UP-2" target="U6b_p_HcUZ6ZTeBf6-UP-48" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U6b_p_HcUZ6ZTeBf6-UP-2" value="Главный экран" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#FFEDED;fontSize=20;fontStyle=2" parent="1" vertex="1">
+          <mxGeometry x="424" y="350" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="U6b_p_HcUZ6ZTeBf6-UP-41" value="Классические шифры" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#D4E1F5;fillColor=#FFF5F3;fontSize=16;fontStyle=2" parent="1" vertex="1">
+          <mxGeometry x="200" y="290" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="U6b_p_HcUZ6ZTeBf6-UP-42" value="Шифр Цезаря" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#D4E1F5;fillColor=#FFF5F3;fontSize=16;fontStyle=2" parent="1" vertex="1">
+          <mxGeometry x="200" y="350" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="U6b_p_HcUZ6ZTeBf6-UP-43" value="Лозунговый шифр" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#D4E1F5;fillColor=#FFF5F3;fontSize=16;fontStyle=2" parent="1" vertex="1">
+          <mxGeometry x="200" y="410" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="U6b_p_HcUZ6ZTeBf6-UP-44" value="Симметричные шифры" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#D4E1F5;fillColor=#FFF5F3;fontSize=16;fontStyle=2" parent="1" vertex="1">
+          <mxGeometry x="283" y="490" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="U6b_p_HcUZ6ZTeBf6-UP-45" value="AES" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#D4E1F5;fillColor=#FFF5F3;fontSize=16;fontStyle=2" parent="1" vertex="1">
+          <mxGeometry x="283" y="550" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="U6b_p_HcUZ6ZTeBf6-UP-46" value="DES" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#D4E1F5;fillColor=#FFF5F3;fontSize=16;fontStyle=2" parent="1" vertex="1">
+          <mxGeometry x="283" y="610" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="U6b_p_HcUZ6ZTeBf6-UP-47" value="Магма" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#D4E1F5;fillColor=#FFF5F3;fontSize=16;fontStyle=2" parent="1" vertex="1">
+          <mxGeometry x="283" y="670" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="U6b_p_HcUZ6ZTeBf6-UP-48" value="Асимметричные шифры" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#D4E1F5;fillColor=#FFF5F3;fontSize=16;fontStyle=2" parent="1" vertex="1">
+          <mxGeometry x="648" y="290" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="U6b_p_HcUZ6ZTeBf6-UP-49" value="RSA" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#D4E1F5;fillColor=#FFF5F3;fontSize=16;fontStyle=2" parent="1" vertex="1">
+          <mxGeometry x="648" y="350" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="U6b_p_HcUZ6ZTeBf6-UP-50" value="Схема Эль-Гамаля" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#D4E1F5;fillColor=#FFF5F3;fontSize=16;fontStyle=2" parent="1" vertex="1">
+          <mxGeometry x="648" y="410" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="U6b_p_HcUZ6ZTeBf6-UP-51" value="Протокол Диффи-Хеллмана" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#D4E1F5;fillColor=#FFF5F3;fontSize=16;fontStyle=2" parent="1" vertex="1">
+          <mxGeometry x="566" y="490" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="U6b_p_HcUZ6ZTeBf6-UP-52" value="Генератор паролей" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#D4E1F5;fillColor=#FFF5F3;fontSize=16;fontStyle=2" parent="1" vertex="1">
+          <mxGeometry x="566" y="550" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="x0euOsKEzB6YBtMeQb2k-1" value="Приложение CryptoLearn" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=2" parent="1" vertex="1">
+          <mxGeometry x="424" y="268" width="150" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
